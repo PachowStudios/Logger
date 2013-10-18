@@ -1,0 +1,6 @@
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\bin\x64\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\bin\x64\Debug\MouseKeyboardActivityMonitor.pdb
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\bin\x64\Debug\MouseKeyboardActivityMonitor.xml
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\obj\x64\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\obj\x64\Debug\MouseKeyboardActivityMonitor.pdb

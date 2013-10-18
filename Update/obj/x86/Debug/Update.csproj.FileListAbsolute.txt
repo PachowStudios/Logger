@@ -1,0 +1,5 @@
+C:\Users\Ryan\Documents\Coding Projects\Logger\Update\bin\Debug\WinLog Manager.exe
+C:\Users\Ryan\Documents\Coding Projects\Logger\Update\bin\Debug\Update.exe
+C:\Users\Ryan\Documents\Coding Projects\Logger\Update\bin\Debug\Update.pdb
+C:\Users\Ryan\Documents\Coding Projects\Logger\Update\obj\x86\Debug\Update.exe
+C:\Users\Ryan\Documents\Coding Projects\Logger\Update\obj\x86\Debug\Update.pdb

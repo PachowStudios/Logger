@@ -1,0 +1,18 @@
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\bin\x86\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\bin\x86\Debug\MouseKeyboardActivityMonitor.pdb
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\bin\x86\Debug\MouseKeyboardActivityMonitor.xml
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\obj\x86\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\obj\x86\Debug\MouseKeyboardActivityMonitor.pdb
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\bin\x86\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\bin\x86\Debug\MouseKeyboardActivityMonitor.pdb
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\bin\x86\Debug\MouseKeyboardActivityMonitor.xml
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\obj\x86\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\MouseKeyboardActivityMonitor\obj\x86\Debug\MouseKeyboardActivityMonitor.pdb
+C:\Users\Ryan\Documents\Coding Projects\Logger\MouseKeyboardActivityMonitor\bin\x86\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Ryan\Documents\Coding Projects\Logger\MouseKeyboardActivityMonitor\bin\x86\Debug\MouseKeyboardActivityMonitor.pdb
+C:\Users\Ryan\Documents\Coding Projects\Logger\MouseKeyboardActivityMonitor\bin\x86\Debug\MouseKeyboardActivityMonitor.xml
+C:\Users\Ryan\Documents\Coding Projects\Logger\MouseKeyboardActivityMonitor\obj\x86\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Ryan\Documents\Coding Projects\Logger\MouseKeyboardActivityMonitor\obj\x86\Debug\MouseKeyboardActivityMonitor.pdb
+C:\Users\Ryan\Documents\Coding Projects\Logger\MouseKeyboardActivityMonitor\obj\x86\Debug\MouseKeyboardActivityMonitor.csprojResolveAssemblyReference.cache

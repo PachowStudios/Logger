@@ -1,0 +1,19 @@
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\Silent_Installer\bin\Debug\Silent_Installer.exe
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\Silent_Installer\bin\Debug\Silent_Installer.pdb
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\Silent_Installer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\Silent_Installer\obj\x86\Debug\Silent_Installer.exe
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\Silent_Installer\obj\x86\Debug\Silent_Installer.pdb
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\Silent_Installer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\Silent_Installer\obj\x86\Debug\Silent_Installer.exe
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\Silent_Installer\bin\Debug\Silent_Installer.exe
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\Silent_Installer\bin\Debug\Silent_Installer.pdb
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\Silent_Installer\obj\x86\Debug\Silent_Installer.pdb
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\Silent_Installer\bin\Debug\Silent.pdb
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\Silent_Installer\bin\Debug\Silent.exe
+C:\Users\Ryan\Documents\Dropbox\Projects\Logger\Silent_Installer\bin\Debug\Silent.pdb
+C:\Users\rshea\Documents\Dropbox\Projects\Logger\Silent_Installer\bin\Debug\Silent.exe
+C:\Users\Ryan\Documents\Coding Projects\Logger\Silent_Installer\bin\Debug\WinLog Startup.exe
+C:\Users\Ryan\Documents\Coding Projects\Logger\Silent_Installer\bin\Debug\WinLog Startup.pdb
+C:\Users\Ryan\Documents\Coding Projects\Logger\Silent_Installer\obj\x86\Debug\WinLog Startup.exe
+C:\Users\Ryan\Documents\Coding Projects\Logger\Silent_Installer\obj\x86\Debug\WinLog Startup.pdb
+C:\Users\Ryan\Documents\Coding Projects\Logger\Silent_Installer\bin\Debug\WinLog Manager.exe
